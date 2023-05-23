@@ -1,4 +1,4 @@
-def ovel():
+def oval():
     print('oval')
 
 def square():
